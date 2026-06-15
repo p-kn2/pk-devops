@@ -28,7 +28,7 @@ alias lrole='aws iam list-roles --query "Roles[].[RoleName,CreateDate]" --output
 # --- 🚀 THE ULTIMATE CHEATBOOK COMMAND ---
 alias dops='cat << "DEVOP"
 
-alias k=kubectl
+alias k='kubectl'
 ========================================================================================
                       🚀 DEV-OPS MASTER CHEATBOOK (ALL-IN-ONE) 🚀
 ========================================================================================
