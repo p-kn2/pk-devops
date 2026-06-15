@@ -38,7 +38,7 @@ addons = [
   },
   {
     name    = "coredns"
-    
+    version = "v1.12.2-eksbuild.7"
   },
   {
     name    = "kube-proxy"
